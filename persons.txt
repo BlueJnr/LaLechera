@@ -1,0 +1,2 @@
+Tienda01,RUC,1234567890,address01,email01@gmai.com,123456789
+Name01,DNI,12345678,address10,email02@gmai.com,765347987
